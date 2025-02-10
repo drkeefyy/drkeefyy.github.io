@@ -1,15 +1,6 @@
 ## Welcome to the STREAM INFO
 
-I'll be going over some stream information here, regarding streams on TWITCH.TV/DRKEEFY!
+Welcome to our FIRST EVER Genuine Fallout New Vegas Playthrough. I've done a little bit of research towards looking into things for what I want to do and the goals for this playthrough. We will be using a functional post-game ending, so we can play the game after the battle of Hoover Dam. Our current goals so far:
 
-We are playing: ROBLOX W/MY PARTNER
-Our Goals:
-- Have Fun!
-- 
-
-Any Intermissions:
-No!
-
-Lenght: 1-2 Hours
-
-Additional Info: None
+[] - NCR Ending
+[] - All DLCs
